@@ -1,0 +1,19 @@
+Raska Technical Documentation
+
+Introduction
+Raska is a versatile robot that is designed to deliver pizza to hard-to-reach locations by climbing walls and navigating difficult terrain. It is equipped with advanced technology that enables it to operate in harsh environments and deliver pizza efficiently. This technical documentation provides a detailed overview of the features and capabilities of Raska.
+
+Design and Construction
+Raska is designed with a durable and lightweight body that can withstand extreme weather conditions. It is constructed using high-strength materials, such as carbon fiber and aluminum. The robot is equipped with four wheels that have a high-traction tread, enabling it to climb steep slopes and navigate rough terrain. The arms of the robot are equipped with grippers that can hold and manipulate objects, including pizzas.
+
+Navigation and Control
+Raska is equipped with advanced navigation and control systems that enable it to climb walls with precision and accuracy. The robot uses a combination of GPS, sensors, and cameras to navigate its surroundings and identify the best route to its destination. The control system is designed to be user-friendly, with an intuitive interface that allows operators to easily control the robot's movements.
+
+Power and Battery
+Raska is powered by a high-efficiency electric motor that consumes minimal energy. The motor operates at a voltage of 24V DC and generates an output torque of 8Nm. The robot is equipped with a rechargeable battery that can operate for up to 8 hours of continuous operation. The battery is designed to be lightweight and durable, and can be quickly and easily swapped out for a fresh one when needed. The robot also has a solar panel on its body that can recharge the battery when exposed to sunlight.
+
+Delivery System
+Raska's delivery system is designed to be efficient and reliable. The robot is equipped with a compartment that can hold up to three pizzas at a time. The compartment is insulated to keep the pizzas warm during delivery. The robot's gripper arms can open the compartment and retrieve the pizzas, then deliver them to the designated location using its advanced navigation and control systems. The robot's grippers generate an output signal of 12V DC and can manipulate objects weighing up to 5 kg.
+
+Conclusion
+Raska is a cutting-edge robot that is revolutionizing pizza delivery. Its advanced features and capabilities make it the ideal solution for delivering pizzas to hard-to-reach locations. With its sturdy construction, advanced navigation and control systems, and efficient delivery system, Raska is sure to become a favorite among pizza lovers and outdoor enthusiasts alike.

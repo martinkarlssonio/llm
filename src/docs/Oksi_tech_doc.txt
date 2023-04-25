@@ -1,0 +1,22 @@
+Oksi Technical Documentation
+
+Introduction
+Oksi is an innovative robot that is designed to produce high-quality orange juice with minimal waste. It is equipped with advanced technology that enables it to extract the maximum amount of juice from each orange. This technical documentation provides an overview of the features and technical specifications of Oksi.
+
+Design and Construction
+Oksi is designed with a compact and durable body that can withstand the rigors of juice production. It is constructed with high-quality materials, including stainless steel and food-grade plastics. The robot is equipped with a hopper that can hold up to 50 oranges at a time, and a juicing system that can extract juice from the oranges with minimal waste.
+
+Juicing System
+Oksi's juicing system is designed to extract the maximum amount of juice from each orange while minimizing waste. The system uses a combination of centrifugal force and pressure to squeeze the juice out of the oranges. The extracted juice is then collected in a container and filtered to remove any pulp or seeds. The system is designed to be easy to clean and maintain, with removable parts that can be quickly and easily disassembled.
+
+Control and Monitoring
+Oksi is equipped with advanced control and monitoring systems that enable it to produce high-quality orange juice consistently. The control system is designed to be user-friendly, with an intuitive interface that allows operators to easily control the robot's operations. The monitoring system tracks key performance metrics, such as juice yield and waste, and provides real-time feedback to operators.
+
+Power and Energy Efficiency
+Oksi is powered by a high-efficiency electric motor that requires a power supply voltage of 24V DC. The motor is designed to operate quietly and efficiently, with minimal heat generation. The robot also has a solar panel on its body that can recharge the battery when exposed to sunlight. This feature ensures that Oksi can operate for extended periods of time without needing to be recharged.
+
+Output Signals
+Oksi's juicing system produces an output signal of 0-10V DC, which indicates the juice yield from each orange. The robot's control system uses this signal to adjust the pressure and speed of the juicing system, ensuring that the maximum amount of juice is extracted from each orange.
+
+Conclusion
+Oksi is an innovative robot that is changing the way orange juice is produced. Its advanced features and technical specifications make it the ideal solution for producing high-quality orange juice efficiently and with minimal waste. With its compact and durable design, advanced juicing system, efficient control and monitoring systems, and energy-efficient power supply, Oksi is sure to become a favorite among juice producers everywhere.

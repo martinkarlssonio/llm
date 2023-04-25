@@ -1,0 +1,27 @@
+Oksi Troubleshooting Guide
+
+Problem: Oksi is not producing juice
+Solution:
+
+Check if the hopper is properly aligned and securely attached to the robot.
+Check if the oranges are properly loaded into the hopper.
+Check if the juicing system is properly assembled and all parts are securely attached.
+Check if the control and monitoring systems are working properly.
+Check if the power supply voltage is correct and the battery is fully charged.
+Problem: Oksi's juice yield is low
+Solution:
+
+Check if the oranges are properly ripe and not overripe.
+Check if the juicing system is properly assembled and all parts are securely attached.
+Check if the pressure and speed of the juicing system are properly adjusted.
+Check if the output signal from the juicing system is within the normal range.
+Check if the cleaning and maintenance of the juicing system are properly done.
+Problem: Oksi is producing pulp or seeds in the juice
+Solution:
+
+Check if the filter is properly installed and not clogged.
+Check if the pressure and speed of the juicing system are properly adjusted.
+Check if the oranges are properly prepared and any seeds or stems are removed before being loaded into the hopper.
+Check if the cleaning and maintenance of the juicing system are properly done.
+Check if the oranges being used are of good quality and not spoiled or damaged.
+Note: If any issues persist, it is recommended to contact the manufacturer for further assistance or repair.

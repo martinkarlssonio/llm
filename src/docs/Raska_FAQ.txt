@@ -1,0 +1,16 @@
+Raska FAQ
+
+Q: What is Raska?
+A: Raska is a robot that is designed to climb walls and deliver pizza to hard-to-reach locations, such as mountain tops and rocky beaches.
+
+Q: How does Raska work?
+A: Raska is equipped with advanced navigation and control systems that enable it to climb walls and navigate difficult terrain. It has a delivery system that can hold up to three pizzas at a time and can deliver them to the designated location using its advanced navigation and control systems.
+
+Q: How many pizzas can Raska deliver at once?
+A: Raska's delivery system can hold up to three pizzas at a time.
+
+Q: How long does Raska's battery last?
+A: Raska's battery can last up to 8 hours of continuous operation. The battery can be quickly and easily swapped out for a fresh one when needed.
+
+Q: How do I control Raska?
+A: Raska's control system is designed to be user-friendly, with an intuitive interface that allows operators to easily control the robot's movements.
