@@ -15,10 +15,16 @@
 This project combines the power of OpenAI ChatGPT's general LLM with custom data on a niche area, e.g. various custom documentation about a technical product.
 It mainly uses Python packages 'langchain', 'Flask'
 
-NOTE : Installing all the packages takes a hefty amount of time, but this is expected.
+** NOTE : Installing all the packages takes a hefty amount of time, but this is expected.
 
-![Screenshot][screenshot]
+### Architecture
 ![Architecture][arch]
+
+### Screenshots
+![Screenshot1][screenshot1]
+![Screenshot2][screenshot2]
+![Screenshot3][screenshot3]
+![Screenshot4][screenshot4]
 
 ## Pre-requisite
 Confirmed working on Linux, WSL on Windows.
@@ -56,5 +62,8 @@ Project Link: [github.com/martinkarlssonio/polars-pandas-spark](https://github.c
 [linkedin-url]: https://linkedin.com/in/martin-karlsson
 [buymeacoffee-shield]: https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee
 [buymeacoffee-url]: https://www.buymeacoffee.com/martinkarlsson
-[screenshot]: img/screenshot.png
 [arch]: img/arch.png
+[screenshot1]: img/screenshot1.png
+[screenshot2]: img/screenshot2.png
+[screenshot3]: img/screenshot3.png
+[screenshot4]: img/screenshot4.png
