@@ -12,8 +12,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project combines the power of OpenAI ChatGPT's general LLM with custom data on a niche area, e.g. various custom documentation about a technical product.
-It mainly uses Python packages 'langchain', 'Flask'
+This project combines the power of OpenAI ChatGPT's general LLM with custom data on a niche area, e.g. various custom documentation about a technical product (mocked documents found under src/docs/).
+It mainly uses Python packages 'langchain' and 'Flask'.
 
 **NOTE : Installing all the packages takes a hefty amount of time, but this is expected.**
 
@@ -22,10 +22,10 @@ It mainly uses Python packages 'langchain', 'Flask'
 
 ### Screenshots
 ![Animation][animation]
-![Screenshot1][screenshot1]
+<!-- ![Screenshot1][screenshot1]
 ![Screenshot2][screenshot2]
 ![Screenshot3][screenshot3]
-![Screenshot4][screenshot4]
+![Screenshot4][screenshot4] -->
 
 ## Pre-requisite
 Confirmed working on Linux, WSL on Windows.
