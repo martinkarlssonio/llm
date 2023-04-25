@@ -21,6 +21,7 @@ It mainly uses Python packages 'langchain', 'Flask'
 ![Architecture][arch]
 
 ### Screenshots
+![Animation][animation]
 ![Screenshot1][screenshot1]
 ![Screenshot2][screenshot2]
 ![Screenshot3][screenshot3]
@@ -67,3 +68,4 @@ Project Link: [github.com/martinkarlssonio/llm](https://github.com/martinkarlsso
 [screenshot2]: img/screenshot2.png
 [screenshot3]: img/screenshot3.png
 [screenshot4]: img/screenshot4.png
+[animation]: img/animation.gif
