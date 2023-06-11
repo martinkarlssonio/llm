@@ -21,6 +21,23 @@ def setOpenApiKey(openApiKey):
     init()
     return True
 
+def pdfLoader(path):
+    print("Startng pdfLoader")
+    from langchain.document_loaders import PyPDFLoader
+    from langchain.text_splitter import CharacterTextSplitter
+    from langchain.embeddings import OpenAIEmbeddings
+    from langchain.vectorstores import Chroma
+    loader = PyPDFLoader(path)
+    documents = loader.load_and_split()
+    text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
+    texts = text_splitter.split_documents(documents)
+    embeddings = OpenAIEmbeddings()
+    db = Chroma.from_documents(texts, embeddings)
+    retriever = db.as_retriever(search_type="similarity", search_kwargs={"k":2})
+    qa = RetrievalQA.from_chain_type(
+        llm=OpenAI(), chain_type="stuff", retriever=retriever, return_source_documents=True)
+    return qa
+
 def directoryLoader(path):
     print("directoryLoader")
     # Documentation : https://python.langchain.com/en/latest/modules/indexes/document_loaders/examples/directory_loader.html
@@ -43,6 +60,12 @@ def init():
     docsDir = 'docs/'
     global qa
     qa = directoryLoader(docsDir)
+    #qa = pdfLoader("pdf/test.pdf")
 
 def askQuestion(query):
-    return qa.run(query)
+    # TXT
+    returnString = qa.run(query)
+    # PDF
+    # output = qa({"query": query})
+    # returnString = str(output['result'])
+    return returnString
